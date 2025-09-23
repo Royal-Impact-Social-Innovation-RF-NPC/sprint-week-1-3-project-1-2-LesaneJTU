@@ -16,6 +16,7 @@ This project is a low-cost soil moisture detector built with Arduino. It measure
 | `Soil Detector.pdf`           | Circuit wiring diagram in PDF format              |
 | `Soil_Detector.png`           | Circuit schematic (image version)                 |
 | `soil_detector.ino`           | Arduino source code for running the soil detector |
+| `Laser Cutting Work`          | Pictures of Laser Cutting                         |
 
 ---
 ## Hardware Components
@@ -100,3 +101,9 @@ Gather all items from the Bill of Materials above.
 ```
 ## Circuit of diagram
 <img width="1536" height="632" alt="Soil Detector" src="https://github.com/user-attachments/assets/16647565-e7f8-40eb-8a5c-ff4a8a42ae73" />
+
+---
+## Laser Cutting 
+As part of my practice work, I explored laser cutting techniques to create custom casings and component holders. This exercise helped me gain hands-on experience with precision cutting, understanding material choices, and designing enclosures that improve both functionality and appearance of prototypes. It also gave me insight into how rapid fabrication tools can speed up iteration in hardware projects. I used CorelDraw to run the design that will be loaded to the machine.
+<img width="673" height="317" alt="Screenshot 2025-09-23 163445" src="https://github.com/user-attachments/assets/2d8dc68b-5cfe-47ad-a5df-56c7898a186a" />
+
